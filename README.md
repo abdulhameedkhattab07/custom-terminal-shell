@@ -1,5 +1,5 @@
 # Custom Terminal Shell by Khattab
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://youtu.be/_jGe-cf1yB0)>
 #### Description: 
 Custom Terminal Shell is a Python-based command-line interface that allows users to interact with their system efficiently. It supports various built-in commands such as listing files, creating and removing directories, moving and copying files, searching the web, and even opening files in VS Code.
 
