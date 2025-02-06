@@ -1,0 +1,14 @@
+****************************************************
+*          CS50P FINAL PROJECT                     *
+*                                                  *
+*          CUSTOM TERMINAL SHELL                   *
+*                                                  *
+*          By: Khattab Abdulhameed                 *
+*                                                  *
+*          GitHub: abdulhameedkhattab07            *
+*          edX: abdulhameedkhattab07               *
+*                                                  *
+*          Location: Nigeria, Lagos State          *
+*          Date: February 6, 2025                  *
+*                                                  *
+****************************************************
